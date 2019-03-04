@@ -1,0 +1,12 @@
+Loading net-file from 'test.net.xml'... done (77ms).
+Loading done.
+Warning: Ids of internal routes are ignored (vehicle '12112').
+Performance: 
+ Duration: 2910ms
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Inserted: 0 (Loaded: 1)
+ Running: 0
+ Waiting: 0
+
