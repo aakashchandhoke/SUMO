@@ -12,6 +12,7 @@ from xml.sax import saxutils, parse, make_parser, handler
 from copy import copy
 from itertools import *
 import operator
+import traci
 
 SUMO_HOME = "C:\\Program Files (x86)\\DLR\\Sumo"
 try:
@@ -162,12 +163,14 @@ def Dijkstra_with_overheads(graph, start, end=None):
 
 def generate_routefile(route):
     with open("dijk1.rou.xml", "w") as routes:
-        print >> routes, """<routes>
-        <vType id="vehicle1" accel="0.8" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="16.67" guiShape="passenger"/>
-        <vehicle id ="12112" depart="0.79" departLane="free" departSpeed="max">
-        <route id="1" edges=\""""+route+"""\" />
-        </vehicle>
-        </routes>"""
+        routes.write('<routes> \n')
+        ## Creating 100 vehicles for simulation
+        for i in range(100):
+            routes.write('<vType id=\"vehicle'+str(i)+'\" accel=\"0.8\" decel=\"4.5\" sigma=\"0.5\" length=\"5\" minGap=\"2.5\" maxSpeed=\"16.67\" guiShape=\"passenger\" /> \n')
+            routes.write('<vehicle id =\"'+str(i)+'\" depart=\"'+str(0.5+i)+'\" departLane=\"free\" departSpeed=\"max\"> \n')
+            routes.write('<route id=\"'+str(i)+'\" edges=\"'+route+'\" /> \n')
+            routes.write('</vehicle> \n')
+        routes.write('</routes>')
 
 def getOverheads(filename):
     congestion = dict()

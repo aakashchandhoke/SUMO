@@ -1,12 +1,112 @@
-Loading net-file from 'test.net.xml'... done (77ms).
+Loading net-file from 'test.net.xml'... done (82ms).
 Loading done.
-Warning: Ids of internal routes are ignored (vehicle '12112').
+Warning: Ids of internal routes are ignored (vehicle '0').
+Simulation started with time: 0.00
+Warning: Ids of internal routes are ignored (vehicle '1').
+Warning: Ids of internal routes are ignored (vehicle '2').
+Warning: Ids of internal routes are ignored (vehicle '3').
+Warning: Ids of internal routes are ignored (vehicle '4').
+Warning: Ids of internal routes are ignored (vehicle '5').
+Warning: Ids of internal routes are ignored (vehicle '6').
+Warning: Ids of internal routes are ignored (vehicle '7').
+Warning: Ids of internal routes are ignored (vehicle '8').
+Warning: Ids of internal routes are ignored (vehicle '9').
+Warning: Ids of internal routes are ignored (vehicle '10').
+Warning: Ids of internal routes are ignored (vehicle '11').
+Warning: Ids of internal routes are ignored (vehicle '12').
+Warning: Ids of internal routes are ignored (vehicle '13').
+Warning: Ids of internal routes are ignored (vehicle '14').
+Warning: Ids of internal routes are ignored (vehicle '15').
+Warning: Ids of internal routes are ignored (vehicle '16').
+Warning: Ids of internal routes are ignored (vehicle '17').
+Warning: Ids of internal routes are ignored (vehicle '18').
+Warning: Ids of internal routes are ignored (vehicle '19').
+Warning: Ids of internal routes are ignored (vehicle '20').
+Warning: Ids of internal routes are ignored (vehicle '21').
+Warning: Ids of internal routes are ignored (vehicle '22').
+Warning: Ids of internal routes are ignored (vehicle '23').
+Warning: Ids of internal routes are ignored (vehicle '24').
+Warning: Ids of internal routes are ignored (vehicle '25').
+Warning: Ids of internal routes are ignored (vehicle '26').
+Warning: Ids of internal routes are ignored (vehicle '27').
+Warning: Ids of internal routes are ignored (vehicle '28').
+Warning: Ids of internal routes are ignored (vehicle '29').
+Warning: Ids of internal routes are ignored (vehicle '30').
+Warning: Ids of internal routes are ignored (vehicle '31').
+Warning: Ids of internal routes are ignored (vehicle '32').
+Warning: Ids of internal routes are ignored (vehicle '33').
+Warning: Ids of internal routes are ignored (vehicle '34').
+Warning: Ids of internal routes are ignored (vehicle '35').
+Warning: Ids of internal routes are ignored (vehicle '36').
+Warning: Ids of internal routes are ignored (vehicle '37').
+Warning: Ids of internal routes are ignored (vehicle '38').
+Warning: Ids of internal routes are ignored (vehicle '39').
+Warning: Ids of internal routes are ignored (vehicle '40').
+Warning: Ids of internal routes are ignored (vehicle '41').
+Warning: Ids of internal routes are ignored (vehicle '42').
+Warning: Ids of internal routes are ignored (vehicle '43').
+Warning: Ids of internal routes are ignored (vehicle '44').
+Warning: Ids of internal routes are ignored (vehicle '45').
+Warning: Ids of internal routes are ignored (vehicle '46').
+Warning: Ids of internal routes are ignored (vehicle '47').
+Warning: Ids of internal routes are ignored (vehicle '48').
+Warning: Ids of internal routes are ignored (vehicle '49').
+Warning: Ids of internal routes are ignored (vehicle '50').
+Warning: Ids of internal routes are ignored (vehicle '51').
+Warning: Ids of internal routes are ignored (vehicle '52').
+Warning: Ids of internal routes are ignored (vehicle '53').
+Warning: Ids of internal routes are ignored (vehicle '54').
+Warning: Ids of internal routes are ignored (vehicle '55').
+Warning: Ids of internal routes are ignored (vehicle '56').
+Warning: Ids of internal routes are ignored (vehicle '57').
+Warning: Ids of internal routes are ignored (vehicle '58').
+Warning: Ids of internal routes are ignored (vehicle '59').
+Warning: Ids of internal routes are ignored (vehicle '60').
+Warning: Ids of internal routes are ignored (vehicle '61').
+Warning: Ids of internal routes are ignored (vehicle '62').
+Warning: Ids of internal routes are ignored (vehicle '63').
+Warning: Ids of internal routes are ignored (vehicle '64').
+Warning: Ids of internal routes are ignored (vehicle '65').
+Warning: Ids of internal routes are ignored (vehicle '66').
+Warning: Ids of internal routes are ignored (vehicle '67').
+Warning: Ids of internal routes are ignored (vehicle '68').
+Warning: Ids of internal routes are ignored (vehicle '69').
+Warning: Ids of internal routes are ignored (vehicle '70').
+Warning: Ids of internal routes are ignored (vehicle '71').
+Warning: Ids of internal routes are ignored (vehicle '72').
+Warning: Ids of internal routes are ignored (vehicle '73').
+Warning: Ids of internal routes are ignored (vehicle '74').
+Warning: Ids of internal routes are ignored (vehicle '75').
+Warning: Ids of internal routes are ignored (vehicle '76').
+Warning: Ids of internal routes are ignored (vehicle '77').
+Warning: Ids of internal routes are ignored (vehicle '78').
+Warning: Ids of internal routes are ignored (vehicle '79').
+Warning: Ids of internal routes are ignored (vehicle '80').
+Warning: Ids of internal routes are ignored (vehicle '81').
+Warning: Ids of internal routes are ignored (vehicle '82').
+Warning: Ids of internal routes are ignored (vehicle '83').
+Warning: Ids of internal routes are ignored (vehicle '84').
+Warning: Ids of internal routes are ignored (vehicle '85').
+Warning: Ids of internal routes are ignored (vehicle '86').
+Warning: Ids of internal routes are ignored (vehicle '87').
+Warning: Ids of internal routes are ignored (vehicle '88').
+Warning: Ids of internal routes are ignored (vehicle '89').
+Warning: Ids of internal routes are ignored (vehicle '90').
+Warning: Ids of internal routes are ignored (vehicle '91').
+Warning: Ids of internal routes are ignored (vehicle '92').
+Warning: Ids of internal routes are ignored (vehicle '93').
+Warning: Ids of internal routes are ignored (vehicle '94').
+Warning: Ids of internal routes are ignored (vehicle '95').
+Warning: Ids of internal routes are ignored (vehicle '96').
+Warning: Ids of internal routes are ignored (vehicle '97').
+Warning: Ids of internal routes are ignored (vehicle '98').
+Warning: Ids of internal routes are ignored (vehicle '99').
 Performance: 
- Duration: 2910ms
- Real time factor: 0
- UPS: 0.000000
+ Duration: 31859ms
+ Real time factor: 1.6008
+ UPS: 21.971813
 Vehicles: 
- Inserted: 0 (Loaded: 1)
- Running: 0
- Waiting: 0
+ Inserted: 26 (Loaded: 100)
+ Running: 26
+ Waiting: 25
 

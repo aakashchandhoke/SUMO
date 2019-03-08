@@ -16,4 +16,9 @@
         <log value = "mylog.txt"/>
     </report>
 
+<!--     <routing>
+        <device.rerouting.probability value="1.0"/>
+        <device.rerouting.with-taz value="true"/>
+    </routing> -->
+
 </configuration>
