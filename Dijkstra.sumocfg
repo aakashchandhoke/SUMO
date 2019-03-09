@@ -5,20 +5,16 @@
     <input>
         <net-file value="test.net.xml"/>
         <route-files value="dijk1.rou.xml"/>
+        <gui-settings-file value="test.settings.xml"/>
     </input>
 
     <time>
         <begin value="0"/>
-        <end value = "500"/>
+        <end value = "2000"/>
     </time>
 
     <report>
         <log value = "mylog.txt"/>
     </report>
-
-<!--     <routing>
-        <device.rerouting.probability value="1.0"/>
-        <device.rerouting.with-taz value="true"/>
-    </routing> -->
 
 </configuration>

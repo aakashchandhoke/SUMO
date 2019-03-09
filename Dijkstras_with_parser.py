@@ -3,7 +3,6 @@ import time
 import sys
 import optparse
 import subprocess
-import random
 import argparse
 from Queue import PriorityQueue
 import xml.sax
@@ -12,14 +11,15 @@ from xml.sax import saxutils, parse, make_parser, handler
 from copy import copy
 from itertools import *
 import operator
-import traci
 
 SUMO_HOME = "C:\\Program Files (x86)\\DLR\\Sumo"
 try:
     sys.path.append(os.path.join(SUMO_HOME, "tools"))
     # import the library
     import sumolib
+    import traci
     import unicodedata
+    import random
     from sumolib import checkBinary
     from sumolib.net import Net
     from sumolib.net import NetReader
@@ -164,11 +164,26 @@ def Dijkstra_with_overheads(graph, start, end=None):
 def generate_routefile(route):
     with open("dijk1.rou.xml", "w") as routes:
         routes.write('<routes> \n')
-        ## Creating 100 vehicles for simulation
+
+        #Congestion from Left to Right
+        for j in range(7):
+            routes.write('<vType id=\"vehicleLEFTRIGHT'+str(j)+'\" accel=\"0.8\" decel=\"4.5\" sigma=\"0.5\" length=\"5\" minGap=\"2.5\" maxSpeed=\"16.67\" guiShape=\"passenger\" /> \n')
+            routes.write('<vehicle id =\"1223'+str(j)+'\" depart=\"'+str(0.5+j)+'\" departLane=\"free\" departSpeed=\"max\"> \n')
+            routes.write('<route id=\"'+str(j)+'\" color="red" edges="422766356#0 422766356#1 422766356#2" /> \n')
+            routes.write('</vehicle> \n')
+
+        #Congestion from Top to Down
+        for k in range(50):
+            routes.write('<vType id=\"vehicleUPDown'+str(k)+'\" accel=\"0.8\" decel=\"4.5\" sigma=\"0.5\" length=\"5\" minGap=\"2.5\" maxSpeed=\"16.67\" guiShape=\"moped\" /> \n')
+            routes.write('<vehicle id =\"23456'+str(k)+'\" depart=\"'+str(0.5+k)+'\" departLane=\"free\" departSpeed=\"max\"> \n')
+            routes.write('<route id=\"'+str(k)+'\" color="red" edges="422766370#0 422766370#1 422766370#2 422766370#3 422766370#4 422766370#5 422766370#6 422766366#0 422766366#1 422766366#2 422766366#3" /> \n')
+            routes.write('</vehicle> \n')
+
+        # ## Creating 100 vehicles for simulation
         for i in range(100):
-            routes.write('<vType id=\"vehicle'+str(i)+'\" accel=\"0.8\" decel=\"4.5\" sigma=\"0.5\" length=\"5\" minGap=\"2.5\" maxSpeed=\"16.67\" guiShape=\"passenger\" /> \n')
-            routes.write('<vehicle id =\"'+str(i)+'\" depart=\"'+str(0.5+i)+'\" departLane=\"free\" departSpeed=\"max\"> \n')
-            routes.write('<route id=\"'+str(i)+'\" edges=\"'+route+'\" /> \n')
+            routes.write('<vType id=\"vehicle'+str(i)+'\" accel=\"0.8\" decel=\"4.5\" sigma=\"0.5\" length=\"5\" minGap=\"2.5\" maxSpeed=\"16.67\" guiShape=\"delivery\" /> \n')
+            routes.write('<vehicle id =\"'+str(i)+'\" depart=\"'+str(+i)+'\" departLane=\"free\" departSpeed=\"max\"> \n')
+            routes.write('<route id=\"'+str(i)+'\" color="blue" edges=\"'+route+'\" /> \n')
             routes.write('</vehicle> \n')
         routes.write('</routes>')
 
