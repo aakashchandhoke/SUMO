@@ -1,0 +1,226 @@
+Loading net-file from 'Dijkstra.net.xml'... done (78ms).
+Warning: Missing green phase in tlLogic '4224961273', program '0' for tl-index 0
+Loading done.
+Warning: Ids of internal routes are ignored (vehicle '12230').
+Simulation started with time: 0.00
+Warning: Ids of internal routes are ignored (vehicle '12231').
+Warning: Ids of internal routes are ignored (vehicle '12232').
+Warning: Ids of internal routes are ignored (vehicle '12233').
+Warning: Ids of internal routes are ignored (vehicle '12234').
+Warning: Ids of internal routes are ignored (vehicle '12235').
+Warning: Ids of internal routes are ignored (vehicle '12236').
+Warning: Ids of internal routes are ignored (vehicle '234560').
+Warning: Route file should be sorted by departure time, ignoring '234560'!
+Warning: Ids of internal routes are ignored (vehicle '234561').
+Warning: Route file should be sorted by departure time, ignoring '234561'!
+Warning: Ids of internal routes are ignored (vehicle '234562').
+Warning: Route file should be sorted by departure time, ignoring '234562'!
+Warning: Ids of internal routes are ignored (vehicle '234563').
+Warning: Route file should be sorted by departure time, ignoring '234563'!
+Warning: Ids of internal routes are ignored (vehicle '234564').
+Warning: Route file should be sorted by departure time, ignoring '234564'!
+Warning: Ids of internal routes are ignored (vehicle '234565').
+Warning: Route file should be sorted by departure time, ignoring '234565'!
+Warning: Ids of internal routes are ignored (vehicle '234566').
+Warning: Ids of internal routes are ignored (vehicle '234567').
+Warning: Ids of internal routes are ignored (vehicle '234568').
+Warning: Ids of internal routes are ignored (vehicle '234569').
+Warning: Ids of internal routes are ignored (vehicle '2345610').
+Warning: Ids of internal routes are ignored (vehicle '2345611').
+Warning: Ids of internal routes are ignored (vehicle '2345612').
+Warning: Ids of internal routes are ignored (vehicle '2345613').
+Warning: Ids of internal routes are ignored (vehicle '2345614').
+Warning: Ids of internal routes are ignored (vehicle '2345615').
+Warning: Ids of internal routes are ignored (vehicle '2345616').
+Warning: Ids of internal routes are ignored (vehicle '2345617').
+Warning: Ids of internal routes are ignored (vehicle '2345618').
+Warning: Ids of internal routes are ignored (vehicle '2345619').
+Warning: Ids of internal routes are ignored (vehicle '2345620').
+Warning: Ids of internal routes are ignored (vehicle '2345621').
+Warning: Ids of internal routes are ignored (vehicle '2345622').
+Warning: Ids of internal routes are ignored (vehicle '2345623').
+Warning: Ids of internal routes are ignored (vehicle '2345624').
+Warning: Ids of internal routes are ignored (vehicle '2345625').
+Warning: Ids of internal routes are ignored (vehicle '2345626').
+Warning: Ids of internal routes are ignored (vehicle '2345627').
+Warning: Ids of internal routes are ignored (vehicle '2345628').
+Warning: Ids of internal routes are ignored (vehicle '2345629').
+Warning: Ids of internal routes are ignored (vehicle '2345630').
+Warning: Ids of internal routes are ignored (vehicle '2345631').
+Warning: Ids of internal routes are ignored (vehicle '2345632').
+Warning: Ids of internal routes are ignored (vehicle '2345633').
+Warning: Ids of internal routes are ignored (vehicle '2345634').
+Warning: Ids of internal routes are ignored (vehicle '2345635').
+Warning: Ids of internal routes are ignored (vehicle '2345636').
+Warning: Ids of internal routes are ignored (vehicle '2345637').
+Warning: Ids of internal routes are ignored (vehicle '2345638').
+Warning: Ids of internal routes are ignored (vehicle '2345639').
+Warning: Ids of internal routes are ignored (vehicle '2345640').
+Warning: Ids of internal routes are ignored (vehicle '2345641').
+Warning: Ids of internal routes are ignored (vehicle '2345642').
+Warning: Ids of internal routes are ignored (vehicle '2345643').
+Warning: Ids of internal routes are ignored (vehicle '2345644').
+Warning: Ids of internal routes are ignored (vehicle '2345645').
+Warning: Ids of internal routes are ignored (vehicle '2345646').
+Warning: Ids of internal routes are ignored (vehicle '2345647').
+Warning: Ids of internal routes are ignored (vehicle '2345648').
+Warning: Ids of internal routes are ignored (vehicle '2345649').
+Warning: Ids of internal routes are ignored (vehicle '0').
+Warning: Route file should be sorted by departure time, ignoring '0'!
+Warning: Ids of internal routes are ignored (vehicle '1').
+Warning: Route file should be sorted by departure time, ignoring '1'!
+Warning: Ids of internal routes are ignored (vehicle '2').
+Warning: Route file should be sorted by departure time, ignoring '2'!
+Warning: Ids of internal routes are ignored (vehicle '3').
+Warning: Route file should be sorted by departure time, ignoring '3'!
+Warning: Ids of internal routes are ignored (vehicle '4').
+Warning: Route file should be sorted by departure time, ignoring '4'!
+Warning: Ids of internal routes are ignored (vehicle '5').
+Warning: Route file should be sorted by departure time, ignoring '5'!
+Warning: Ids of internal routes are ignored (vehicle '6').
+Warning: Route file should be sorted by departure time, ignoring '6'!
+Warning: Ids of internal routes are ignored (vehicle '7').
+Warning: Route file should be sorted by departure time, ignoring '7'!
+Warning: Ids of internal routes are ignored (vehicle '8').
+Warning: Route file should be sorted by departure time, ignoring '8'!
+Warning: Ids of internal routes are ignored (vehicle '9').
+Warning: Route file should be sorted by departure time, ignoring '9'!
+Warning: Ids of internal routes are ignored (vehicle '10').
+Warning: Route file should be sorted by departure time, ignoring '10'!
+Warning: Ids of internal routes are ignored (vehicle '11').
+Warning: Route file should be sorted by departure time, ignoring '11'!
+Warning: Ids of internal routes are ignored (vehicle '12').
+Warning: Route file should be sorted by departure time, ignoring '12'!
+Warning: Ids of internal routes are ignored (vehicle '13').
+Warning: Route file should be sorted by departure time, ignoring '13'!
+Warning: Ids of internal routes are ignored (vehicle '14').
+Warning: Route file should be sorted by departure time, ignoring '14'!
+Warning: Ids of internal routes are ignored (vehicle '15').
+Warning: Route file should be sorted by departure time, ignoring '15'!
+Warning: Ids of internal routes are ignored (vehicle '16').
+Warning: Route file should be sorted by departure time, ignoring '16'!
+Warning: Ids of internal routes are ignored (vehicle '17').
+Warning: Route file should be sorted by departure time, ignoring '17'!
+Warning: Ids of internal routes are ignored (vehicle '18').
+Warning: Route file should be sorted by departure time, ignoring '18'!
+Warning: Ids of internal routes are ignored (vehicle '19').
+Warning: Route file should be sorted by departure time, ignoring '19'!
+Warning: Ids of internal routes are ignored (vehicle '20').
+Warning: Route file should be sorted by departure time, ignoring '20'!
+Warning: Ids of internal routes are ignored (vehicle '21').
+Warning: Route file should be sorted by departure time, ignoring '21'!
+Warning: Ids of internal routes are ignored (vehicle '22').
+Warning: Route file should be sorted by departure time, ignoring '22'!
+Warning: Ids of internal routes are ignored (vehicle '23').
+Warning: Route file should be sorted by departure time, ignoring '23'!
+Warning: Ids of internal routes are ignored (vehicle '24').
+Warning: Route file should be sorted by departure time, ignoring '24'!
+Warning: Ids of internal routes are ignored (vehicle '25').
+Warning: Route file should be sorted by departure time, ignoring '25'!
+Warning: Ids of internal routes are ignored (vehicle '26').
+Warning: Route file should be sorted by departure time, ignoring '26'!
+Warning: Ids of internal routes are ignored (vehicle '27').
+Warning: Route file should be sorted by departure time, ignoring '27'!
+Warning: Ids of internal routes are ignored (vehicle '28').
+Warning: Route file should be sorted by departure time, ignoring '28'!
+Warning: Ids of internal routes are ignored (vehicle '29').
+Warning: Route file should be sorted by departure time, ignoring '29'!
+Warning: Ids of internal routes are ignored (vehicle '30').
+Warning: Route file should be sorted by departure time, ignoring '30'!
+Warning: Ids of internal routes are ignored (vehicle '31').
+Warning: Route file should be sorted by departure time, ignoring '31'!
+Warning: Ids of internal routes are ignored (vehicle '32').
+Warning: Route file should be sorted by departure time, ignoring '32'!
+Warning: Ids of internal routes are ignored (vehicle '33').
+Warning: Route file should be sorted by departure time, ignoring '33'!
+Warning: Ids of internal routes are ignored (vehicle '34').
+Warning: Route file should be sorted by departure time, ignoring '34'!
+Warning: Ids of internal routes are ignored (vehicle '35').
+Warning: Route file should be sorted by departure time, ignoring '35'!
+Warning: Ids of internal routes are ignored (vehicle '36').
+Warning: Route file should be sorted by departure time, ignoring '36'!
+Warning: Ids of internal routes are ignored (vehicle '37').
+Warning: Route file should be sorted by departure time, ignoring '37'!
+Warning: Ids of internal routes are ignored (vehicle '38').
+Warning: Route file should be sorted by departure time, ignoring '38'!
+Warning: Ids of internal routes are ignored (vehicle '39').
+Warning: Route file should be sorted by departure time, ignoring '39'!
+Warning: Ids of internal routes are ignored (vehicle '40').
+Warning: Route file should be sorted by departure time, ignoring '40'!
+Warning: Ids of internal routes are ignored (vehicle '41').
+Warning: Route file should be sorted by departure time, ignoring '41'!
+Warning: Ids of internal routes are ignored (vehicle '42').
+Warning: Route file should be sorted by departure time, ignoring '42'!
+Warning: Ids of internal routes are ignored (vehicle '43').
+Warning: Route file should be sorted by departure time, ignoring '43'!
+Warning: Ids of internal routes are ignored (vehicle '44').
+Warning: Route file should be sorted by departure time, ignoring '44'!
+Warning: Ids of internal routes are ignored (vehicle '45').
+Warning: Route file should be sorted by departure time, ignoring '45'!
+Warning: Ids of internal routes are ignored (vehicle '46').
+Warning: Route file should be sorted by departure time, ignoring '46'!
+Warning: Ids of internal routes are ignored (vehicle '47').
+Warning: Route file should be sorted by departure time, ignoring '47'!
+Warning: Ids of internal routes are ignored (vehicle '48').
+Warning: Route file should be sorted by departure time, ignoring '48'!
+Warning: Ids of internal routes are ignored (vehicle '49').
+Warning: Route file should be sorted by departure time, ignoring '49'!
+Warning: Ids of internal routes are ignored (vehicle '50').
+Warning: Ids of internal routes are ignored (vehicle '51').
+Warning: Ids of internal routes are ignored (vehicle '52').
+Warning: Ids of internal routes are ignored (vehicle '53').
+Warning: Ids of internal routes are ignored (vehicle '54').
+Warning: Ids of internal routes are ignored (vehicle '55').
+Warning: Ids of internal routes are ignored (vehicle '56').
+Warning: Ids of internal routes are ignored (vehicle '57').
+Warning: Ids of internal routes are ignored (vehicle '58').
+Warning: Ids of internal routes are ignored (vehicle '59').
+Warning: Ids of internal routes are ignored (vehicle '60').
+Warning: Ids of internal routes are ignored (vehicle '61').
+Warning: Ids of internal routes are ignored (vehicle '62').
+Warning: Ids of internal routes are ignored (vehicle '63').
+Warning: Ids of internal routes are ignored (vehicle '64').
+Warning: Ids of internal routes are ignored (vehicle '65').
+Warning: Ids of internal routes are ignored (vehicle '66').
+Warning: Ids of internal routes are ignored (vehicle '67').
+Warning: Ids of internal routes are ignored (vehicle '68').
+Warning: Ids of internal routes are ignored (vehicle '69').
+Warning: Ids of internal routes are ignored (vehicle '70').
+Warning: Ids of internal routes are ignored (vehicle '71').
+Warning: Ids of internal routes are ignored (vehicle '72').
+Warning: Ids of internal routes are ignored (vehicle '73').
+Warning: Ids of internal routes are ignored (vehicle '74').
+Warning: Ids of internal routes are ignored (vehicle '75').
+Warning: Ids of internal routes are ignored (vehicle '76').
+Warning: Ids of internal routes are ignored (vehicle '77').
+Warning: Ids of internal routes are ignored (vehicle '78').
+Warning: Ids of internal routes are ignored (vehicle '79').
+Warning: Ids of internal routes are ignored (vehicle '80').
+Warning: Ids of internal routes are ignored (vehicle '81').
+Warning: Ids of internal routes are ignored (vehicle '82').
+Warning: Ids of internal routes are ignored (vehicle '83').
+Warning: Ids of internal routes are ignored (vehicle '84').
+Warning: Ids of internal routes are ignored (vehicle '85').
+Warning: Ids of internal routes are ignored (vehicle '86').
+Warning: Ids of internal routes are ignored (vehicle '87').
+Warning: Ids of internal routes are ignored (vehicle '88').
+Warning: Ids of internal routes are ignored (vehicle '89').
+Warning: Ids of internal routes are ignored (vehicle '90').
+Warning: Ids of internal routes are ignored (vehicle '91').
+Warning: Ids of internal routes are ignored (vehicle '92').
+Warning: Ids of internal routes are ignored (vehicle '93').
+Warning: Ids of internal routes are ignored (vehicle '94').
+Warning: Ids of internal routes are ignored (vehicle '95').
+Warning: Ids of internal routes are ignored (vehicle '96').
+Warning: Ids of internal routes are ignored (vehicle '97').
+Warning: Ids of internal routes are ignored (vehicle '98').
+Warning: Ids of internal routes are ignored (vehicle '99').
+Performance: 
+ Duration: 20067ms
+ Real time factor: 2.44182
+ UPS: 40.663776
+Vehicles: 
+ Inserted: 27 (Loaded: 101)
+ Running: 27
+ Waiting: 23
+

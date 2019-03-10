@@ -3,9 +3,9 @@
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
-        <net-file value="test.net.xml"/>
-        <route-files value="dijk1.rou.xml"/>
-        <gui-settings-file value="test.settings.xml"/>
+        <net-file value="Dijkstra.net.xml"/>
+        <route-files value="Dijkstra.rou.xml"/>
+        <gui-settings-file value="Dijkstra.settings.xml"/>
     </input>
 
     <time>
