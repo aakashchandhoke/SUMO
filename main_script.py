@@ -330,7 +330,7 @@ if __name__ == "__main__":
 
     if options.routing_algorithm == "dijkstra":
         route = shortestPath(graph, '-422766323#3', '-193223413#2', 0)
-    elif options.routing_algorithm == "dijkstra-with-congestion":
+    elif options.routing_algorithm == "dijkstra_with_congestion":
         route = shortestPath(graph, '-422766323#3', '-193223413#2', 1)
     else:
         route = shortestPath(graph, '-422766323#3', '-193223413#2', 2)

@@ -1,40 +1,40 @@
 <additional>
 	<tazs>
-		<taz id="1" edges="-422766323#3" congestion="0.95" overheads="0.5">
+		<taz id="1" edges="-422766323#3" congestion="0.5" overheads="0.5">
 		</taz>
-		<taz id="2" edges="422766356#0" congestion="0.9" overheads="0.45">
+		<taz id="2" edges="422766356#0" congestion="0.45" overheads="0.45">
 		</taz>
-		<taz id="3" edges="-422766323#4" congestion="0.9" overheads="0.4">
+		<taz id="3" edges="-422766323#4" congestion="0.4" overheads="0.4">
 		</taz>
-		<taz id="4" edges="-422766330" congestion="0.4" overheads="0.65">
+		<taz id="4" edges="-422766330" congestion="0.65" overheads="0.65">
 		</taz>
 		<taz id="5" edges="-422766356#1" congestion="0.0" overheads="0.52">
 		</taz>
-		<taz id="6" edges="422766356#1" congestion="0.7" overheads="0.87">
+		<taz id="6" edges="422766356#1" congestion="0.87" overheads="0.87">
 		</taz>
 		<taz id="7" edges="-422766356#2" congestion="0.0" overheads="0.5">
 		</taz>
-		<taz id="8" edges="-422766356#3" congestion="0.65" overheads="0.89">
+		<taz id="8" edges="-422766356#3" congestion="0.89" overheads="0.89">
 		</taz>
-		<taz id="9" edges="422766356#4" congestion="0.25" overheads="0.01">
+		<taz id="9" edges="422766356#4" congestion="0.01" overheads="0.01">
 		</taz>
-		<taz id="10" edges="-423596208" congestion="0.57" overheads="1.0">
+		<taz id="10" edges="-423596208" congestion="1.0" overheads="1.0">
 		</taz>
-		<taz id="11" edges="-423596238#1" congestion="0.15" overheads="0.67">
+		<taz id="11" edges="-423596238#1" congestion="0.67" overheads="0.67">
 		</taz>
-		<taz id="12" edges="-423596238#2" congestion="1.0" overheads="0.87">
+		<taz id="12" edges="-423596238#2" congestion="0.87" overheads="0.87">
 		</taz>
-		<taz id="13" edges="-193223413#2" congestion="0.75" overheads="0.20">
+		<taz id="13" edges="-193223413#2" congestion="0.20" overheads="0.20">
 		</taz>
-		<taz id="14" edges="-422766366#3" congestion="0.95" overheads="0.43">
+		<taz id="14" edges="-422766366#3" congestion="0.43" overheads="0.43">
 		</taz>
-		<taz id="15" edges="-422766344#1" congestion="0.15" overheads="0.54">
+		<taz id="15" edges="-422766344#1" congestion="0.54" overheads="0.54">
 		</taz>
-		<taz id="16" edges="-422766344#0" congestion="0.25" overheads="0.78">
+		<taz id="16" edges="-422766344#0" congestion="0.78" overheads="0.78">
 		</taz>
-		<taz id="17" edges="-422766355#1" congestion="0.45" overheads="0.43">
+		<taz id="17" edges="-422766355#1" congestion="0.43" overheads="0.43">
 		</taz>
-		<taz id="18" edges="422766355#0" congestion="0.81" overheads="0.43">
+		<taz id="18" edges="422766355#0" congestion="0.43" overheads="0.43">
 		</taz>
 		<taz id="19" edges="422766366#3" congestion="0.0" overheads="0.43">
 		</taz>
