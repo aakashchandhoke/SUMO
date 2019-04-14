@@ -214,7 +214,7 @@ def generate_routefile(route):
         for i in range(100):
             routes.write('<vType id=\"vehicle'+str(i)+'\" accel=\"0.8\" decel=\"4.5\" sigma=\"0.5\" length=\"5\" minGap=\"2.5\" maxSpeed=\"16.67\" guiShape=\"delivery\" /> \n')
             routes.write('<vehicle id =\"'+str(i)+'\" depart=\"'+str(+i)+'\" departLane=\"free\" departSpeed=\"max\"> \n')
-            routes.write('<route id=\"'+str(i)+'\" color="blue" edges=\"'+route+'\" /> \n')
+            routes.write('<route id=\"'+str(i)+'\" color="white" edges=\"'+route+'\" /> \n')
             routes.write('</vehicle> \n')
         routes.write('</routes>')
 

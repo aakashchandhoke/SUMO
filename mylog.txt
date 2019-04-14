@@ -1,4 +1,4 @@
-Loading net-file from 'Dijkstra.net.xml'... done (86ms).
+Loading net-file from 'Dijkstra.net.xml'... done (81ms).
 Warning: Missing green phase in tlLogic '4224961273', program '0' for tl-index 0
 Loading done.
 Warning: Ids of internal routes are ignored (vehicle '12230').
@@ -216,11 +216,11 @@ Warning: Ids of internal routes are ignored (vehicle '97').
 Warning: Ids of internal routes are ignored (vehicle '98').
 Warning: Ids of internal routes are ignored (vehicle '99').
 Performance: 
- Duration: 44107ms
- Real time factor: 4.10366
- UPS: 236.470402
+ Duration: 36901ms
+ Real time factor: 3.82103
+ UPS: 180.591312
 Vehicles: 
- Inserted: 95 (Loaded: 101)
- Running: 95
- Waiting: 6
+ Inserted: 89 (Loaded: 101)
+ Running: 89
+ Waiting: 12
 

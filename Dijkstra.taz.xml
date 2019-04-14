@@ -4,7 +4,7 @@
 		</taz>
 		<taz id="2" edges="422766356#0" congestion="0.45" overheads="0.45">
 		</taz>
-		<taz id="3" edges="-422766323#4" congestion="0.4" overheads="0.4">
+		<taz id="3" edges="-422766323#4" congestion="1.0" overheads="0.4">
 		</taz>
 		<taz id="4" edges="-422766330" congestion="0.65" overheads="0.65">
 		</taz>
