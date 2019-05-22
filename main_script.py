@@ -293,7 +293,7 @@ def shortestPath(graph, start, end, arg):
 def initOptions():
     argParser = argparse.ArgumentParser()
     ## added param to give the command as of what type of Algorithm we need to choose
-    argParser.add_argument("-r", "--routing_algorithm", default="dijkstra", type=str, help="select the routing algorithm")
+    argParser.add_argument("-r", "--routing_algorithm", default=False, type=str, help="select the routing algorithm")
     ## added param to give SUMO the command to run as a command line version or GUI version
     argParser.add_argument("--nogui", action="store_true", default=False, help="run the commandline version of sumo")
     args = argParser.parse_args()
@@ -329,10 +329,13 @@ if __name__ == "__main__":
     #         while driving on the road
 
     if options.routing_algorithm == "dijkstra":
+        print("In Dijkstra")
         route = shortestPath(graph, '-422766323#3', '-193223413#2', 0)
     elif options.routing_algorithm == "dijkstra_with_congestion":
+        print("In Dijkstra_with_congestion")
         route = shortestPath(graph, '-422766323#3', '-193223413#2', 1)
     else:
+        print("In Dijkstra_with_overheads")
         route = shortestPath(graph, '-422766323#3', '-193223413#2', 2)
 
     # this is the normal way of using traci. sumo is started as a

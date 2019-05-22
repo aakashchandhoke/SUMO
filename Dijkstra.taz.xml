@@ -2,7 +2,7 @@
 	<tazs>
 		<taz id="1" edges="-422766323#3" congestion="0.5" overheads="0.5">
 		</taz>
-		<taz id="2" edges="422766356#0" congestion="0.45" overheads="0.45">
+		<taz id="2" edges="422766356#0" congestion="0.45" overheads="0.15">
 		</taz>
 		<taz id="3" edges="-422766323#4" congestion="1.0" overheads="0.4">
 		</taz>
@@ -36,9 +36,13 @@
 		</taz>
 		<taz id="18" edges="422766355#0" congestion="0.43" overheads="0.43">
 		</taz>
-		<taz id="19" edges="422766366#3" congestion="0.0" overheads="0.43">
+		<taz id="19" edges="422766366#3" congestion="0.04" overheads="0.43">
 		</taz>
-		<taz id="20" edges="422766366#2" congestion="0.0" overheads="0.43">
+		<taz id="20" edges="422766366#2" congestion="0.20" overheads="0.43">
+		</taz>
+		<taz id="21" edges="422766364#2" congestion="0.10" overheads="0.13">
+		</taz>
+		<taz id="22" edges="-422766333" congestion="0.22" overheads="0.03">
 		</taz>
 	</tazs>
 </additional>
